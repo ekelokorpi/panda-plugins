@@ -22,8 +22,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Info:**
  - Plugin: [e.g. Spine]
- - Version [e.g. 1.0.0]
- - Browser [e.g. chrome, safari]
+ - Version: [e.g. 1.0.0]
+ - Browser: [e.g. chrome, safari]
 
 **Additional context**
 Add any other context about the problem here.
